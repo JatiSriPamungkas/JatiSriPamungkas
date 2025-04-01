@@ -1,6 +1,5 @@
-# 💫 About Me:
+# 👋 Hii guyss, I'm Jatii
 
-Hii guyss 👋, I'm Jatii.
 I'm a passionate full-stack web developer who loves crafting seamless user experiences and robust back-end solutions.
 A little bit fun fact: I also love web3 development😉.
 
